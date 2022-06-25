@@ -1,0 +1,147 @@
+header{
+    width: 1440px;
+    height: 576px;
+    background: #F0FFF0;
+}
+.navbar-brand img{
+    width: 118px;
+    height: 29px;
+}
+.link-button{
+    width: 104px;
+    height: 43px;
+    background: #21B573;
+    color: #FFFFFF;
+    border-radius: 33px;
+    border: none;
+    font-weight: 600;
+}
+.navbar-nav{
+    margin-top: 20px;
+}
+.carousel-item img{
+    width: 100%;
+    float: right;
+}
+.hafl-width img{
+    width: 100%;
+}
+.any{
+    color: #21B573;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 550;
+}
+.container h2{
+    font-weight: 700;
+}
+.hafiz-nayeem{
+    padding-top: 70px;
+}
+.can-be{
+    color: #FD5114;
+    margin-top: 30px;
+}
+.get-button{
+    width: 153;
+    height: 43px;
+    padding: 12px 36px;
+    background: #21B573;
+    color: white;
+    border-radius: 33px;
+    border: none;
+    font-weight: 600;
+    margin-top: 35px;
+}
+.box-1{
+    width: 270px;
+    height: 270px;
+    margin: 20px;
+    text-align: center;
+    padding: 20px;
+    background: #F8FFFB;
+    border-radius: 5px;
+}
+.box-1 img{
+    width: 66px;
+    height: 85px;
+    padding: 5px;
+}
+.bttn{
+    padding-top: 40px;
+}
+#baby-web{
+    margin-top: 50px;
+    margin-right: 0;
+    padding-left: 120px;
+}
+#baby-web img{
+}
+#with{
+    box-shadow: 3px 3px 10px dimgray;
+    border-radius: 5px;
+    background: white;
+}
+.online{
+    margin-bottom: 30px;
+}
+.bttn-buy{
+    width: 137px;
+    height: 35px;
+    border-radius: 33px;
+    border: none;
+    color: white;
+    font-weight: 400;
+    background: #21B573;
+    margin-top: 15px;
+}
+.card-footer{
+    margin-top: 40px;
+}
+.card-footer img{
+    width: 18px;
+    height: 20px;
+}
+#chill{
+    padding: 15px;
+}
+#what-hell{
+    margin-top: 30px;
+}
+.card-hafiz{
+    box-shadow: 3px 3px 10px dimgray;
+    border-radius: 5px;
+    padding: 30px;
+}
+#chill-2{
+    padding: 15px;
+    margin: 50px 220px; 
+}
+#chill-2 img{
+    width: 120px;
+    height: 120px;
+    margin-top: 50px;
+    margin-left: 190px;
+}
+.lorem{
+    margin-top: 70px;
+}
+#footer-tola{
+    width: 1440px;
+    height: 369px;
+    background: #2B2531;
+}
+#footer-tola p{
+    color: white;
+}
+#footer-tola h6{
+    color: #FFFFFF;
+}
+#lest-work{
+    margin-top: 60px;
+}
+.hafiz{
+    color: #CDCDCD;
+    text-align: center;
+    margin-top: 80px;
+    padding-right: 30px;
+}
